@@ -1,7 +1,7 @@
 # barbearia-cwb
 Site da Barbearia CWB
 
-:angel: Para Recrutarores !
+:angel: Para Recrutadores !
 
 Por favor acesse o link abaixo especialmente feito para você.
 
