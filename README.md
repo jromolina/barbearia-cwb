@@ -38,7 +38,7 @@ Este projeto foi desenvolvido com base no estudo formal das tecnologias HTML e C
 
 📃 Licensa
 
-**Esse projeto não está licenciado.**
+**Esse projeto está licenciado com as diretrizes da MIT.**
 
 ✉️ Email
 
