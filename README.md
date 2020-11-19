@@ -1,9 +1,7 @@
 # barbearia-cwb
 Site da Barbearia CWB
 
-:angel: Para Recrutadores !
-
-Por favor acesse o link abaixo especialmente feito para você.
+Para acesso imediato ao site clique no link abaixo.
 
 https://jromolina.github.io/barbearia-cwb/
 
