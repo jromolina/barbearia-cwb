@@ -30,7 +30,6 @@ Este projeto foi desenvolvido com base no estudo formal das tecnologias HTML e C
 | Tela Inicial | Parceiros & Serviços | 
 |---|---|
 | ![Site_B1](https://user-images.githubusercontent.com/30197988/99709819-87f29500-2a7e-11eb-802c-7f2f05b5cb1b.png) | ![Site_B2](https://user-images.githubusercontent.com/30197988/99710311-27b02300-2a7f-11eb-803c-daae87c48b77.png) | 
-| Benefícios | Vídeo & Créditos | Mapa do Estabelecimento |
 
 📃 Licensa
 
@@ -38,7 +37,7 @@ Este projeto foi desenvolvido com base no estudo formal das tecnologias HTML e C
 
 ✉️ Email
 
-**Para a versão licenciada e tratamento mobal completo entre em contato nos endereços abaixo:**
+**Para contato por favor use um dos endereços abaixo:**
 
 jromolina@gmail.com
 
